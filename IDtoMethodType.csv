@@ -1,0 +1,62 @@
+id,type
+118,Hybrid
+245,Comb (S & ML)
+237,Comb (S)
+072,Comb (S & ML)
+069,Comb (S)
+036,Comb (S)
+078,Comb (S)
+260,Stat
+238,Comb (S)
+039,Comb (S)
+005,Stat
+132,Comb (S)
+251,Stat
+250,Comb (S & ML)
+243,Comb (S)
+235,Stat
+104,Comb (S)
+223,Comb (S & ML)
+239,Comb (S)
+211,ML
+231,Comb (S)
+227,Comb (S)
+082,Stat
+212,Comb (S)
+236,Comb (S)
+248,Comb (S)
+030,Stat
+234,Comb (S)
+024,Stat
+218,Stat
+106,Stat
+043,Comb (S & ML)
+216,Comb (S & ML)
+169,Comb (S)
+241,Comb (ML)
+191,Comb (S & ML)
+126,Comb (S)
+244,ML
+070,Comb (S)
+249,Stat
+252,Stat
+255,Stat
+009,Stat
+256,Stat
+253,Stat
+091,ML
+219,ML
+225,Other
+258,Stat
+Naive,Stat
+sNaive,Stat
+Naive2,Stat
+SES,Stat
+Holt,Stat
+Damped,Stat
+Theta,Stat
+Com,Comb (S)
+MLP,ML
+RNN,ML
+ETS,Stat
+ARIMA,Stat
